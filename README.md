@@ -10,8 +10,8 @@ Each section includes an 'h2' heading, an 'img' element with an icon, and multip
 The items are displayed with their names and prices using 'p' elements with classes "flavor" and "price" for coffee, and "dessert" and "price" for desserts.
 After the sections, there's an 'hr' element as a bottom line.
 
-![image](https://github.com/kaverichougule/Camper_Cafe/assets/101037685/b543adc2-757c-4aaa-bb98-d5c74dcb89bc)
+![image](https://github.com/kaverichougule/Camper_Cafe/assets/101037685/b543adc2-757c-4aaa-bb98-d5c74dcb89bc) <br>
 The 'footer' contains two paragraphs with a link to the FreeCodeCamp website and an address.
 
-styles.css
+# styles.css
 In style.css, various CSS rules are defined to style the web page, including background images, font styles, alignments, and margins. Specific styles are applied to headings, paragraphs, images, and links to create a visually appealing cafe menu design.
