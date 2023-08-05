@@ -8,7 +8,7 @@ The 'main' element includes the main heading ("CAMPER CAFE") and a paragraph wit
 Two 'section' elements represent two categories of items: "Coffee" and "Desserts."
 Each section includes an 'h2' heading, an 'img' element with an icon, and multiple 'article' elements, each representing an item in the category.
 The items are displayed with their names and prices using 'p' elements with classes "flavor" and "price" for coffee, and "dessert" and "price" for desserts.
-After the sections, there's an <hr> element as a bottom line.
+After the sections, there's an 'hr' element as a bottom line.
 
 ![image](https://github.com/kaverichougule/Camper_Cafe/assets/101037685/b543adc2-757c-4aaa-bb98-d5c74dcb89bc)
 The 'footer' contains two paragraphs with a link to the FreeCodeCamp website and an address.
